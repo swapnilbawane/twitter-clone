@@ -1,0 +1,22 @@
+.nav-sidebar a {
+    text-decoration: none;
+
+}
+
+.nav-sidebar li {
+    margin: 1rem;
+}
+
+.non-bullet-list {
+    list-style: none;
+}
+
+.navigation
+{
+    padding: 1rem;   
+}
+
+li.home::before {
+    content: /e487;
+} 
+
